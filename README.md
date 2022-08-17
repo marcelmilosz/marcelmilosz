@@ -1,5 +1,5 @@
  # 👋 Hi, I’m @marcelmilosz
- - 👀 I’m interested in everything that has iT in name 
+ - 👀 I'm interested in everything  that is connected with IT
  - 👀 I'm looking for: Front/Back End job || Python Junior Developer 
  - 🌱 I’m currently learning React, Node.js and more stuff to become Full Stack Developer 
  - 🧑‍🎓 I finished my Data Science studies in 2022
