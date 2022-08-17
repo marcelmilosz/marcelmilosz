@@ -19,7 +19,7 @@
 	- SQL,  MongoDB
 	- ADOBE | Photoshop, Ilustrator, Lightroom, Premiere Pro
 
-## 👌🏼 My hobbies (outside iT):
+## 👌🏼 My hobbies (outside IT):
 	- 💪 Calisthenics 
 	- 📚 Reading books 
 	- 📸 Photography
