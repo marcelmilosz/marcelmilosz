@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @marcelmilosz
+- 👀 I’m interested in everything that has iT in name 
+- 🌱 I’m currently learning React, Node.js and more stuff to become Full Stack Developer 
+- 📫 How to reach me: 
+      - E-mail: marcel.milosz99@gmail.com
+      - LinkedIn: https://www.linkedin.com/in/marcel-mi%C5%82osz-82aab8239/
