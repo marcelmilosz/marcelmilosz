@@ -13,7 +13,7 @@
 	- Python, R
 	- HTML, React, JS, PHP, AJAX 
 	- CSS, SASS
-	- Node.Js
+	- Node.Js, TypeScript, Jest
 	- Git, GitHub, GitHub Kraken
 	- Swift
 	- SQL,  MongoDB
