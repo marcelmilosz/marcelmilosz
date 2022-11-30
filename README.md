@@ -15,7 +15,7 @@
 	- CSS, SASS
 	- Node.Js, TypeScript, Jest
 	- Git, GitHub, GitHub Kraken
-	- Swift
+	- Xcode, Swift
 	- SQL,  MongoDB
 	- ADOBE | Photoshop, Ilustrator, Lightroom, Premiere Pro
 
