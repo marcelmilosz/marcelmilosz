@@ -1,19 +1,19 @@
  # 👋 Hi, I’m @marcelmilosz
  - 👀 I'm interested in everything  that is connected with IT
- - 👀 I'm looking for: Front/Back End job || Python Junior Developer 
- - 🌱 I’m currently learning React, Node.js and more stuff to become Full Stack Developer 
+ - 🌱 I’m currently increasing my skills as a MERN Developer. 
+ - 👨‍🎓 I finished technical school and got the title of IT technician in 2019
  - 🧑‍🎓 I finished my Data Science studies in 2022
  - 📫 How to reach me: 
 	 - E-mail: marcel.milosz99@gmail.com
 	 - LinkedIn: https://www.linkedin.com/in/marcel-mi%C5%82osz-82aab8239/
 
 
-
 # Technologies in which I operate / worked
 	- C, C++, C#
 	- Python, R
-	- HTML, CSS, JS, PHP
-	- Node.Js, AJAX
+	- HTML, React, JS, PHP, AJAX 
+	- CSS, SASS
+	- Node.Js
 	- Git, GitHub, GitHub Kraken
 	- Swift
 	- SQL,  MongoDB
@@ -25,3 +25,4 @@
 	- 📸 Photography
 	- 🍎 Trying to live healthy 
 	- 🥵 Math & Physics
+	- 🤖 Arduino
