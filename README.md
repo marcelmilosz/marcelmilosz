@@ -11,8 +11,8 @@
 # Technologies in which I operate / worked
 	- C, C++, C#
 	- Python, R
-	- HTML, React, JS, PHP, AJAX 
-	- CSS, SASS
+	- HTML, React, NextJs, JavaScript, PHP, AJAX 
+	- CSS, SASS, Bootstrap, Bulma
 	- Node.Js, TypeScript, Jest
 	- Git, GitHub, GitHub Kraken
 	- Xcode, Swift
