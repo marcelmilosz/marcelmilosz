@@ -1,28 +1,32 @@
- # 👋 Hi, I’m @marcelmilosz
- - 👀 I'm interested in everything  that is connected with IT
- - 🌱 I’m currently increasing my skills as a Full-Stack Developer. 
- - 👨‍🎓 I finished technical school and got the title of IT technician in 2019
- - 🧑‍🎓 I finished my Data Science studies in 2022
- - 📫 How to reach me: 
-	 - E-mail: marcel.milosz99@gmail.com
-	 - LinkedIn: https://www.linkedin.com/in/marcel-mi%C5%82osz-82aab8239/
+# Hey there! 👋 I'm Marcel Miłosz
 
+👨‍💻 IT Enthusiast | 📊 Data Explorer | 💪 Calisthenics Enjoyer
 
-# Technologies in which I operate / worked
-	- C, C++, C#
-	- Python, R, Django, REST API
-	- HTML, React, NextJs, JavaScript, PHP, AJAX 
-	- CSS, SASS, Bootstrap, Bulma
-	- Node.Js, TypeScript, Jest
-	- Git, GitHub, GitHub Kraken
-	- Xcode, Swift
-	- SQL,  MongoDB
-	- ADOBE | Photoshop, Ilustrator, Lightroom, Premiere Pro
+### About Me
 
-## 👌🏼 My hobbies (outside IT):
-	- 💪 Calisthenics 
-	- 📚 Reading books 
-	- 📸 Photography
-	- 🍎 Trying to live healthy 
-	- 🥵 Math & Physics
-	- 🤖 Arduino
+I'm deeply passionate about all things IT-related and I'm constantly expanding my skills. I hold a title of IT technician from technical school (2019) and completed my Data Science studies (2022).
+
+### 📫 Contact Me
+
+- 📧 Email: marcel.milosz99@gmail.com
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/marcelmilosz/)
+
+### Technologies I Love
+
+- Languages: `C`, `C++`, `C#`, `Python`, `R`
+- Web: `Django`, `REST API`, `HTML`, `React`, `Next.js`, `JavaScript`, `PHP`, `AJAX`
+- Styling: `CSS`, `SASS`, `Bootstrap`, `Bulma`
+- Backend: `Node.js`, `TypeScript`, `Jest`
+- Version Control: `Git`, `GitHub`, `GitHub Kraken`
+- App Development: `Xcode`, `Swift`
+- Databases: `SQL`, `MongoDB`
+- Design: `Adobe` (Photoshop, Illustrator, Lightroom, Premiere Pro)
+
+### My Hobbies Beyond IT
+
+- 💪 Calisthenics
+- 📚 Reading Books
+- 🎮 Gaming
+- 🍎 Healthy Lifestyle
+- 🥵 Exploring Math & Physics
+- 🤖 Arduino 
