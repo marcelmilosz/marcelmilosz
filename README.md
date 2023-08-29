@@ -1,6 +1,6 @@
  # 👋 Hi, I’m @marcelmilosz
  - 👀 I'm interested in everything  that is connected with IT
- - 🌱 I’m currently increasing my skills as a MERN Developer. 
+ - 🌱 I’m currently increasing my skills as a Full-Stack Developer. 
  - 👨‍🎓 I finished technical school and got the title of IT technician in 2019
  - 🧑‍🎓 I finished my Data Science studies in 2022
  - 📫 How to reach me: 
@@ -10,7 +10,7 @@
 
 # Technologies in which I operate / worked
 	- C, C++, C#
-	- Python, R
+	- Python, R, Django, REST API
 	- HTML, React, NextJs, JavaScript, PHP, AJAX 
 	- CSS, SASS, Bootstrap, Bulma
 	- Node.Js, TypeScript, Jest
