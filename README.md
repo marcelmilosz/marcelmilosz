@@ -10,6 +10,10 @@ I'm deeply passionate about all things IT-related and I'm constantly expanding m
 
 - 📧 Email: marcel.milosz99@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/marcelmilosz/)
+- ✅ LeetCode: [Leetcode](https://leetcode.com/u/Marcluu/)
+
+### Latest course 
+Meta Back-End Developer [Course](https://coursera.org/share/0b2f318dae3589a552c0756c3b9178a7)
 
 ### Technologies I Love
 
