@@ -18,9 +18,9 @@ Meta Back-End Developer [Course](https://coursera.org/share/0b2f318dae3589a552c0
 ### Technologies I Love
 
 - Languages: `C`, `C++`, `C#`, `Python`, `R`
-- Web: `Django`, `REST API`, `HTML`, `React`, `Next.js`, `JavaScript`, `PHP`, `AJAX`
+- Web: `HTML`, `React`, `Next.js`, `JavaScript`, `AJAX`, `TypeScript`, `Jest`
 - Styling: `CSS`, `SASS`, `Bootstrap`, `Bulma`
-- Backend: `Node.js`, `TypeScript`, `Jest`
+- Backend: `Node.js`, `PHP`, `Django`, `REST API`
 - Version Control: `Git`, `GitHub`, `GitHub Kraken`
 - App Development: `Xcode`, `Swift`
 - Databases: `SQL`, `MongoDB`
